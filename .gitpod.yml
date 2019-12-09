@@ -1,3 +1,4 @@
+image: gitpod/workspace-full:branch-pull-134
 ports:
 - port: 8080
   onOpen: open-preview
